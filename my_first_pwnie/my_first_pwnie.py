@@ -16,7 +16,6 @@ try:
   print(f"You entered `{response}`")
   if response == "csawctf{neigh______}":
     print("Yay! Correct! Congrats!")
-    quit()
 except:
   print("Nay, that's not it.")
   pass
